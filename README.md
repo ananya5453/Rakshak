@@ -47,7 +47,7 @@ npm install
 # Start development server on port 3000
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open https://rakshak-scamshield.ai.studio/ in your browser.
 
 ### 2. Running Python FastAPI Backend (Optional)
 ```bash
